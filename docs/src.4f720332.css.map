@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAGA,eACI,WAAY,CACZ,eAAgB,CAChB,SAAU,CACV,QAAS","file":"src.4f720332.css","sourceRoot":"../src","sourcesContent":["body {\n}\n\nhtml, body, #app {\n    height: 100%;\n    overflow: hidden;\n    padding: 0;\n    margin: 0;\n}"]}
